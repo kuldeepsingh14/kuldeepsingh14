@@ -2,7 +2,7 @@
  # Hey, It's Kuldeep this side 👋
 
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning web
+- 🌱 I’m currently as a Application developer
 - 📫 How to reach me kuldeep142003@gmail.com
 --- 
 <!---
